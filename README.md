@@ -13,4 +13,4 @@ Algorithm Visualizer – your go-to platform for exploring data structures and m
 **Server:** FastAPI
 
 ## Link to website
-Play around with the AlgoViz - [here](https://algo-viz-live.vercel.app/)
+Play around with the AlgoViz - [here](https://algo-viz-live-master.vercel.app/about)
